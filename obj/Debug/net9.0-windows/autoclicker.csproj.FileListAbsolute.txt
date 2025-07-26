@@ -1,0 +1,15 @@
+C:\Users\aleks\Documents\GitHub\autoclicker\bin\Debug\net9.0-windows\autoclicker.exe
+C:\Users\aleks\Documents\GitHub\autoclicker\bin\Debug\net9.0-windows\autoclicker.deps.json
+C:\Users\aleks\Documents\GitHub\autoclicker\bin\Debug\net9.0-windows\autoclicker.runtimeconfig.json
+C:\Users\aleks\Documents\GitHub\autoclicker\bin\Debug\net9.0-windows\autoclicker.dll
+C:\Users\aleks\Documents\GitHub\autoclicker\bin\Debug\net9.0-windows\autoclicker.pdb
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\autoclicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\autoclicker.AssemblyInfoInputs.cache
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\autoclicker.AssemblyInfo.cs
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\autoclicker.sourcelink.json
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\autoclicker.dll
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\refint\autoclicker.dll
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\autoclicker.pdb
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\autoclicker.genruntimeconfig.cache
+C:\Users\aleks\Documents\GitHub\autoclicker\obj\Debug\net9.0-windows\ref\autoclicker.dll
